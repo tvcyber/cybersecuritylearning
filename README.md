@@ -19,9 +19,11 @@ strong IT and security fundamentals through hands-on labs and study.
 
 ## Progress Log
 - Offensive Security Intro
-  - Difference between offensive vs defensive security
-  - High-level view of common attack surfaces
-  - Importance of ethics and authorization
+  - Learned the difference between offensive and defensive security
+  - Understood how hidden web pages can create security risks
+  - Gained exposure to basic web application attack concepts
+  - Reinforced the importance of authorization and access controls
+
 
 ## Notes
 All content is high-level and educational. No sensitive lab details are shared.
