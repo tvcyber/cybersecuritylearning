@@ -17,5 +17,11 @@ strong IT and security fundamentals through hands-on labs and study.
 - Develop comfort with Linux and Windows command-line tools
 - Understand core cybersecurity concepts
 
+## Progress Log
+- Offensive Security Intro
+  - Difference between offensive vs defensive security
+  - High-level view of common attack surfaces
+  - Importance of ethics and authorization
+
 ## Notes
 All content is high-level and educational. No sensitive lab details are shared.
